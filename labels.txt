@@ -1,0 +1,4 @@
+0 car
+1 human
+2 doggy
+3 tree
